@@ -7,3 +7,7 @@ tasks:
     init: |
       # upgrade some dependencies
       pip install --upgrade pip wheel setuptools
+
+vscode:
+  extensions:
+    - ms-python.python
